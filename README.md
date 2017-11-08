@@ -1,1 +1,2 @@
 # MyAutomationScripts
+Selenium automation
